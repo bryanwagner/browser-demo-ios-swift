@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "SwiftBrowserDemo.BrowserViewController.navigateTo (SwiftBrowserDemo.BrowserViewController)(Swift.String) -&gt; ():BrowserViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "&quot;http://&quot; + urlString">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
